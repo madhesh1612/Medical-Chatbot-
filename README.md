@@ -15,7 +15,7 @@ It provides smart health suggestions based on user symptoms — no API key neede
 
 ## ▶️ Run It in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/madhesh-1612/Simple-Medical-Chatbot/blob/main/medical_chatbot_cleaned.ipynb)
+[![Open In Colab]https://colab.research.google.com/drive/1Vux9dI2VWmD0gAovTSlwl9uk9xJ2mas5?usp=sharing
 
 
 ---
